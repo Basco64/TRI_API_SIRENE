@@ -91,9 +91,6 @@ Vous pouvez personnaliser le projet selon vos besoins:
 - Les requêtes sont soumises aux quotas de l'API INSEE (renseignez-vous sur le portail API)
 - Cette application est optimisée pour une utilisation côté client, ce qui peut exposer votre clé API
 
-### 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 ### 🤝 Contribution
 
@@ -191,9 +188,6 @@ You can customize the project according to your needs:
 - Requests are subject to INSEE API quotas (check the API portal for more information)
 - This application is optimized for client-side use, which may expose your API key
 
-### 📄 License
-
-This project is under MIT License. See the LICENSE file for more details.
 
 ### 🤝 Contribution
 
